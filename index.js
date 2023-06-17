@@ -8,12 +8,14 @@ for (let x = 1; x <= 5; x++) {
 
 // Print the sum of numbers from 1 to 10
 
-for (let x = 1; x <= 10; x++){
-    let y = 1;
-    y = y + x;
-    console.log(y)
-}
+let m = 0;
+let l = 1;
+let o = 10;
 
+for (let i = 0; i <= 10; i++){
+    m = m + i
+}
+ console.log(m)
 
 // Print average from 1 to 10
 
